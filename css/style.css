@@ -465,16 +465,18 @@ margin-top: 26px;
 }
 
 .category_content_block_second_image_box {
-  display: grid; 
+  display: flex; 
+  justify-content: flex-end;
   box-sizing: border-box;
   width: 367px;
   height: 187px;
   background-color: var(--background-color-light);
-  justify-content: flex-end;
-  right: -1200px;
+  
+  /* right: -1200px;
   top: 200px;
-  position: relative;
-
+  position: relative; */
+margin-left: auto;
+margin-top: 200px;
  
  
 }   
