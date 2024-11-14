@@ -471,7 +471,7 @@ margin-top: 26px;
   height: 187px;
   background-color: var(--background-color-light);
   justify-content: flex-end;
-  right: -1400px;
+  right: -1200px;
   top: 200px;
   position: relative;
 
@@ -1294,9 +1294,10 @@ margin-top: 70px;
   width: 500px;
   background-color:var(--background-color-navigation);
 display: flex;
-justify-content: flex-start;
+justify-content: flex-start ;
 margin-top: 50px;
 margin-left: 410px;
+
 
 }
 
