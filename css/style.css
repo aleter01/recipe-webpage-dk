@@ -1299,6 +1299,7 @@ display: flex;
 justify-content: flex-start ;
 margin-top: 50px;
 margin-left: 410px;
+box-sizing: border-box;
 
 
 }
@@ -1359,9 +1360,11 @@ font-family: 'Roboto Condensed', sans-serif;
   width: 500px;
   background-color:var(--background-color-navigation);
   display: flex;
+  box-sizing: border-box;
   margin-top: 50px;
   margin-bottom: 50px;
   margin-right: 410px;
+  
 
 }
 
